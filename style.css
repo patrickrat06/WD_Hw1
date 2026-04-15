@@ -39,7 +39,9 @@ nav {
   font-size: 1.55rem;
 }
 
-
+a {
+  color:white
+}
 
 
 main {
@@ -67,4 +69,12 @@ ul, ol {
 
 li {
   margin-bottom: 0.4rem;
+}
+
+footer {
+  background-color: #532c5f;
+  color: #ffffff;
+  padding: 2rem 1.5rem;
+  text-align: center;
+  text-decoration: underline;
 }
