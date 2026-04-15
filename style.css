@@ -174,3 +174,26 @@ legend {
   padding: 0 0.4rem;
 }
  
+label {
+  display: block;
+  margin-bottom: 0.3rem;
+  font-size: 0.95rem;
+  font-weight: bold;
+  color: #333;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="tel"],
+select,
+textarea {
+  width: 75%;
+  padding: 0.5rem 0.7rem;
+  border: 1px solid #bbb;
+  border-radius: 4px;
+  font-size: 0.95rem;
+  font-family: inherit;
+  color: #7d0b87;
+  background-color: #ffffff;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
