@@ -16,6 +16,9 @@ body {
   padding: 0 1.5rem;
 }
 
+
+
+
 .skip-link {
   position: absolute;
   top: -3rem;
@@ -28,6 +31,9 @@ body {
   z-index: 100;
   transition: top 0.2s;
 }
+
+
+
 
 header {
   background-color: #532c5f;
@@ -46,6 +52,9 @@ header p {
   opacity: 0.85;
 }
 
+
+
+
 nav {
   color:#ffffff;
   background-color:#532c5f;
@@ -56,6 +65,9 @@ nav {
 a {
   color:white
 }
+
+
+
 
 
 main {
@@ -91,6 +103,9 @@ li {
   margin-bottom: 0.4rem;
 }
 
+
+
+
 footer {
   background-color: #532c5f;
   color: #ffffff;
@@ -98,6 +113,10 @@ footer {
   text-align: center;
   text-decoration: underline;
 }
+
+
+
+
 
 table {
   width: 100%;
@@ -134,3 +153,24 @@ tbody tr:nth-child(odd) {
 tbody tr:hover {
   background-color: #ffffff;
 }
+
+
+form {
+  max-width: 640px;
+  margin-top: 1.5rem;
+}
+ 
+fieldset {
+  border: 1px solid #000000;
+  border-radius: 6px;
+  padding: 1.2rem 1.4rem;
+  margin-bottom: 1.5rem;
+}
+ 
+legend {
+  font-weight: bold;
+  font-size: 1rem;
+  color: #532c5f;
+  padding: 0 0.4rem;
+}
+ 
