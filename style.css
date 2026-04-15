@@ -187,7 +187,7 @@ input[type="email"],
 input[type="tel"],
 select,
 textarea {
-  width: 75%;
+  width: 80%;
   padding: 0.5rem 0.7rem;
   border: 1px solid #bbb;
   border-radius: 4px;
