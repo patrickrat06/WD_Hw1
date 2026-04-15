@@ -8,4 +8,3 @@ Repository for the first assignment from the Web Design Course
 - [x] Forms and tables correctness: accessible form markup and one proper data table with headers/scope where needed.
 - [ ] CSS quality: external stylesheet, consistent visual style, readable spacing/typography, and clean selector usage.
 - [ ] Validation + publication: HTML/CSS validation completed and final site published on GitHub Pages.
-- [ ] Presentation in Lab 7: student presents the project live in Lab 7 (short demo + explanation of structure, accessibility choices, CSS decisions, and validation/publishing status).
