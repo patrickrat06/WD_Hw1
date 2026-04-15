@@ -18,23 +18,6 @@ body {
 
 
 
-
-.skip-link {
-  position: absolute;
-  top: -3rem;
-  left: 5;
-  background: #310944;
-  color: #ffcd60;
-  padding: 0.5rem 1rem;
-  text-decoration: underline;
-  font-size: 1rem;
-  z-index: 100;
-  transition: top 0.2s;
-}
-
-
-
-
 header {
   background-color: #532c5f;
   color: #ffffff;
@@ -53,8 +36,6 @@ header p {
 }
 
 
-
-
 nav {
   color:#ffffff;
   background-color:#532c5f;
@@ -63,7 +44,8 @@ nav {
 }
 
 a {
-  color:white
+  color:white;
+  background-color:#532c5f;
 }
 
 
