@@ -32,3 +32,8 @@ header p {
   font-size: 1.05rem;
   opacity: 0.85;
 }
+
+nav {
+  background-color: #1e4220;
+  font-size: 1.55rem;
+}
