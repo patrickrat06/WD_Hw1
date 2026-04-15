@@ -4,32 +4,14 @@
   margin: 0;
   padding: 0;
 }
- 
+
 body {
   font-family: Georgia, 'Times New Roman', serif;
   font-size: 1rem;
   line-height: 1.6;
-  color: #2e2132;
-  background-color: #b48846;
+  color: #3a2245;
+  background-color: #ffcd60;
   max-width: 960px;
   margin: 0 auto;
   padding: 0 1.5rem;
-}
- 
-
-.skip-link {
-  position: absolute;
-  top: -3rem;
-  left: 0;
-  background: #000;
-  color: #fff;
-  padding: 0.5rem 1rem;
-  text-decoration: none;
-  font-size: 0.9rem;
-  z-index: 100;
-  transition: top 0.2s;
-}
- 
-.skip-link:focus {
-  top: 0;
 }
