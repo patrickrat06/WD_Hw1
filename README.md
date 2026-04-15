@@ -2,7 +2,7 @@
 Repository for the first assignment from the Web Design Course
 
 ## Checklist
-- [ ] Starting point: repository exists, project can be opened, and at least index.html is present.
+- [x] Starting point: repository exists, project can be opened, and at least index.html is present.
 - [ ] Required pages and linking: minimum 4 pages exist and navigation links work correctly between pages.
 - [ ] Semantic HTML structure: correct landmarks, heading hierarchy, and meaningful content organization.
 - [ ] Forms and tables correctness: accessible form markup and one proper data table with headers/scope where needed.
