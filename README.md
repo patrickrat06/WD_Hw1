@@ -1,6 +1,8 @@
 # WD_Hw1
 Repository for the first assignment from the Web Design Course
 
+I've chosen the "Local Small Business Digital Presence" Subject.
+
 ## Checklist
 - [x] Starting point: repository exists, project can be opened, and at least index.html is present.
 - [x] Required pages and linking: minimum 4 pages exist and navigation links work correctly between pages.
