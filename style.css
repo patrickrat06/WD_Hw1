@@ -16,6 +16,19 @@ body {
   padding: 0 1.5rem;
 }
 
+.skip-link {
+  position: absolute;
+  top: -3rem;
+  left: 5;
+  background: #310944;
+  color: #ffcd60;
+  padding: 0.5rem 1rem;
+  text-decoration: underline;
+  font-size: 1rem;
+  z-index: 100;
+  transition: top 0.2s;
+}
+
 header {
   background-color: #532c5f;
   color: #ffffff;
@@ -35,8 +48,9 @@ header p {
 
 nav {
   color:#ffffff;
-  background-color:#724400;
+  background-color:#532c5f;
   font-size: 1.55rem;
+  text-align: center
 }
 
 a {
@@ -50,6 +64,12 @@ main {
  
 section {
   margin-bottom: 2rem;
+}
+
+article {
+  border-left: 4px solid #bca862;
+  padding-left: 1rem;
+  margin-bottom: 1.2rem;
 }
 
 h1, h2, h3, h4 {
@@ -77,4 +97,19 @@ footer {
   padding: 2rem 1.5rem;
   text-align: center;
   text-decoration: underline;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  font-size: 0.95rem;
+}
+ 
+caption {
+  font-size: 1.1rem;
+  font-weight: bold;
+  text-align: left;
+  margin-bottom: 0.6rem;
+  color: #ffffff;
 }
