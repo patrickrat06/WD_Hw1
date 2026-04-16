@@ -8,5 +8,5 @@ I've chosen the "Local Small Business Digital Presence" Subject.
 - [x] Required pages and linking: minimum 4 pages exist and navigation links work correctly between pages.
 - [x] Semantic HTML structure: correct landmarks, heading hierarchy, and meaningful content organization.
 - [x] Forms and tables correctness: accessible form markup and one proper data table with headers/scope where needed.
-- [ ] CSS quality: external stylesheet, consistent visual style, readable spacing/typography, and clean selector usage.
-- [ ] Validation + publication: HTML/CSS validation completed and final site published on GitHub Pages.
+- [x] CSS quality: external stylesheet, consistent visual style, readable spacing/typography, and clean selector usage.
+- [x] Validation + publication: HTML/CSS validation completed and final site published on GitHub Pages.
