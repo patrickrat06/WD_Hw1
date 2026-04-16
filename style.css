@@ -135,6 +135,8 @@ tbody tr:hover {
 }
 
 
+
+
 form {
   max-width: 640px;
   margin-top: 1.5rem;
@@ -173,7 +175,7 @@ textarea {
   border-radius: 4px;
   font-size: 0.95rem;
   font-family: inherit;
-  color: #7d0b87;
+  color: #45064b;
   background-color: #ffffff;
   transition: border-color 0.2s, box-shadow 0.2s;
 }
